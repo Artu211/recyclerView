@@ -1,4 +1,4 @@
-package com.example.recycleview;
+package com.example.recyclerview;
 
 public class User {
     private String firstName;
