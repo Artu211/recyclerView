@@ -1,4 +1,4 @@
-package com.example.awatar;
+package com.example.recycleview;
 
 public class User {
     private String firstName;
